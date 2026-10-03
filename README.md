@@ -56,11 +56,11 @@ Identificación de área de estudio
 
 Imprimir una muestra de 3 registros de la capa organizacion_territorial_parroquial_rural_a , para identificar campo que almacena la información del nombre de la parroquia
 ---
-Lista de parroquias
+Identificar la lista de parroquias
 
-Imprimir una lista con las categorias presentes en dpa_despar
+Imprimir una lista con las categorías presentes en dpa_despar
 ---
-Reparación de geometrias
+Reparación de geometrías
 ---
 Visualización de la capa LOTE y la capa ba003_uso_suelo_edificabilidad_a 
 ---
@@ -75,8 +75,8 @@ planteamientos definidos en el PMDOT; que regula el uso y la edificabilidad del 
 
 *   Componente estructurante que clasifica el suelo en urbano y rural y su subcalsificacion, duracion de 12 años
 *   Componente urbanistico define instrumentos de planeamiento del suelo tales como: Polígonos de Intervención Territorial, Tratamientos urbanísticos, Usos de suelo, Edificabilidad y Estándares urbanísticos.
-*   Aplicacion de planes complementarios que permite detallar, completar y desarrollar de forma específica las determinaciones
-*   Gestion del suelo a partir de instrumentos  de gestión y financiamiento urbano
+*   Aplicación de planes complementarios que permite detallar, completar y desarrollar de forma específica las determinaciones
+*   Gestión del suelo a partir de instrumentos  de gestión y financiamiento urbano
 
 Acorde a la descrpcion del contenido de las capas se identifica que las **capas a usar** para analizar el monitoreo del uso del suelo en la parroquia de San Antonio de Pichincha del Distrito Metropolitano de Quito son:
 
@@ -92,26 +92,16 @@ Acorde a la descrpcion del contenido de las capas se identifica que las **capas 
 *   organizacion_territorial_parroquial_rural_a
 ---
 Chequeo de datos nulos, no data, valores negativos
----
 Filtrado de campos
 ---
-
-3. Analisis exploratorio de los datos + Visualizacion de datos
+#3. Analisis exploratorio de los datos + Visualizacion de datos
 ---
-ba003_uso_suelo_edificabilidad_a
----
-ba004_prevision_suelo_vivienda_interes_social_a
----
-bd001_plan_urbanistico_complementario_a
----
-bi001_declaratoria_regularizacion_prioritaria_a
----
-LOTE
----
-BLOQUE_CONSTRUCTIVO
----
-UNIDAD_CONSTRUCTIVA
----
-MANZANA
----
-AIVAS
+*   ba003_uso_suelo_edificabilidad_a
+*   ba004_prevision_suelo_vivienda_interes_social_a
+*   bd001_plan_urbanistico_complementario_a
+*   bi001_declaratoria_regularizacion_prioritaria_a
+*   LOTE
+*   BLOQUE_CONSTRUCTIVO
+*   UNIDAD_CONSTRUCTIVA
+*   MANZANA
+*   AIVAS
