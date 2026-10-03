@@ -77,7 +77,7 @@ planteamientos definidos en el PMDOT; que regula el uso y la edificabilidad del 
 *   Componente urbanistico define instrumentos de planeamiento del suelo tales como: Polígonos de Intervención Territorial, Tratamientos urbanísticos, Usos de suelo, Edificabilidad y Estándares urbanísticos.
 *   Aplicación de planes complementarios que permite detallar, completar y desarrollar de forma específica las determinaciones
 *   Gestión del suelo a partir de instrumentos  de gestión y financiamiento urbano
-
+![PUGS](PUGS.png)
 Acorde a la descrpcion del contenido de las capas se identifica que las **capas a usar** para analizar el monitoreo del uso del suelo en la parroquia de San Antonio de Pichincha del Distrito Metropolitano de Quito son:
 
 *   ba003_uso_suelo_edificabilidad_a
